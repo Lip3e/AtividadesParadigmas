@@ -1,0 +1,2 @@
+# AtividadesParadigmas
+Exercícios Feitos 
