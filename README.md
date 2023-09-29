@@ -64,22 +64,22 @@ RFOO3 - MOVER TAREFAS CONCLUIDAS
 Aula-2
 
 PROGRAMAÇÃO ESTRUTURADA
-•	Algoritmos
--	Formas de representação
--	Descrição narrativa
-- Fluxograma
-- Linguagem algorítmica
+*Algoritmos
+-Formas de representação
+-Descrição narrativa
+-Fluxograma
+-Linguagem algorítmica
 
-•	Python (práticas e exercícios)
--	Implementação – Google Colab
--	Jupyter Notebook
--	Modularização
+*Python (práticas e exercícios)
+-Implementação – Google Colab
+-Jupyter Notebook
+-Modularização
 -->	Funções
 -->	Procedures
-•	Programação Orientada a Objetos
--	Modelagem (ADD)
--	Herança
--	Composição x Agregação
+*Programação Orientada a Objetos
+-Modelagem (ADD)
+-Herança
+-Composição x Agregação
 
 Algoritmo: é um conjunto de instruções pré-definidas que tem como foco resolver, de forma direcionada, determinado problema. Você terá dados de entrada, processamento e dados de saída. Há várias formas de representar um algoritmo.
 A primeira forma é a descrição narrativa. Por exemplo, fazer um programa que lê 2 notas, calcula a média e verifica se o aluno foi aprovado ou reprovado.
