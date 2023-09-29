@@ -1,6 +1,7 @@
 # AtividadesParadigmas
 Exercícios Feitos 
 
+Aula-1
 Data: 01/09/2023 
   -Topicos 
 *Paradigma Estruturado 
@@ -53,13 +54,54 @@ public class CalculoAumentoSalarial {
         //comando para finalizar o objeto scanner.
         scanner.close();
     }
-
 }
 
 ⇒ Requisitos Funcionais
-
 RFOO1 - GERENCIAR TAREFAS
-
 RFOO2 - GERENCIAR ITENS TAREFAS
-
 RFOO3 - MOVER TAREFAS CONCLUIDAS
+======================================================================
+Aula-2
+
+PROGRAMAÇÃO ESTRUTURADA
+•	Algoritmos
+-	Formas de representação
+-	Descrição narrativa
+- Fluxograma
+- Linguagem algorítmica
+
+•	Python (práticas e exercícios)
+-	Implementação – Google Colab
+-	Jupyter Notebook
+-	Modularização
+-->	Funções
+-->	Procedures
+•	Programação Orientada a Objetos
+-	Modelagem (ADD)
+-	Herança
+-	Composição x Agregação
+
+Algoritmo: é um conjunto de instruções pré-definidas que tem como foco resolver, de forma direcionada, determinado problema. Você terá dados de entrada, processamento e dados de saída. Há várias formas de representar um algoritmo.
+A primeira forma é a descrição narrativa. Por exemplo, fazer um programa que lê 2 notas, calcula a média e verifica se o aluno foi aprovado ou reprovado.
+Descrição narrativa: faça um programa que leia 2 notas e calcule sua média, e depois informe se o aluno foi aprovado ou reprovado, dado que a média tem que ser maior ou igual a 7 para ser aprovado. 
+Na descrição narrativa, informamos a situação-problema que precisamos resolver.
+Outra maneira de representar algoritmos é por meio de fluxograma.
+Fluxograma: 
+ 
+Linguagem algorítmica:
+	INICIO
+		LEIA(N1, N2)
+		MED<-(N1+N2) / 2
+		SE(MED >= 7) ENTÃO
+			REP <- “APROVADO”
+		SENÃO
+			REP <- “REPROVADO”
+		ESCREVA(MED)
+		ESCREVA(REP)
+	FIM
+ 
+Compilador:
+N1	N2	MED	REP
+0.8	4.8	2.8	“Reprovado”
+5.0	9.0	7.0	“Aprovado”
+
